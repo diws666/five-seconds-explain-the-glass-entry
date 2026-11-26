@@ -8,8 +8,8 @@ The cat knocks a glass off the table and has five seconds to explain itself.
 
 > It was already broken in my heart. I simply helped it become broken on the floor as well. You are welcome. I will now sit in the sun.
 
-[![make.fun badge](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![rank](https://make.fun/diws666/five-seconds-explain-the-glass-entry/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![reward](https://make.fun/diws666/five-seconds-explain-the-glass-entry/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/diws666/five-seconds-explain-the-glass-entry/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/diws666/five-seconds-explain-the-glass-entry/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
 Bounty: https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949
